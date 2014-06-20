@@ -22,6 +22,5 @@ N.B This plugin requires an active instance of bbpress plugin and wp-cli command
 ```shell
 wp bbpress-meta install
 ```
-1. Enjoy
 
 The install command will put the website in maintenance mode for a few seconds (depending on your database since).
