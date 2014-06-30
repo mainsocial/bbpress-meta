@@ -1,11 +1,11 @@
 bbpress-meta
 ============
 
-bbPress-meta creates a bridge between slow bbPress meta queries and a fully optimize MySQL table.
+bbPress-meta creates a bridge between slow bbPress meta queries and a fully optimized MySQL table.
 
 **Contributors:** [Mainsocial](http://mainsocial.com/), [jonathanbardo](http://profiles.wordpress.org/jonathanbardo)  
 **Requires at least:** 3.7  
-**Tested up to:** 3.8  
+**Tested up to:** 3.8 
 **Stable tag:** trunk (master)  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
