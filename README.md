@@ -1,7 +1,7 @@
 bbpress-meta
 ============
 
-bbPress creates a bridge between slow bbPress meta queries and a fully optimize MySQL table.
+bbPress-meta creates a bridge between slow bbPress meta queries and a fully optimize MySQL table.
 
 **Contributors:** [Mainsocial](http://mainsocial.com/), [jonathanbardo](http://profiles.wordpress.org/jonathanbardo)  
 **Requires at least:** 3.7  
@@ -23,4 +23,4 @@ N.B This plugin requires an active instance of bbpress plugin and wp-cli command
 wp bbpress-meta install
 ```
 
-The install command will put the website in maintenance mode for a few seconds (depending on your database since).
+The install command will put the website in maintenance mode for a few seconds. How long depends on the speed of your database. For us, with hundreds of thousands of rows in the posts table, and a basic MySQL install on a commodity server, only a few seconds.
